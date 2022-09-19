@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gulugulu</string>
+    <string name="pregunta_1">¿Quien es jake el Perro?</string>
+    <string name="respuesta_1">imageJake</string>
+</resources>
