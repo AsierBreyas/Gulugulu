@@ -1,5 +1,17 @@
 <resources>
     <string name="app_name">Gulugulu</string>
-    <string name="pregunta_1">¿Quien es jake el Perro?</string>
-    <string name="respuesta_1">imageJake</string>
+    <string name="pregunta_0">¿Quien es jake el Perro?</string>
+    <string name="siguienteBoton">Siguiente</string>
+    <string name="pregunta_1">¿Quien es Richard Waterson?</string>
+    <string name="pregunta_2">¿Quien es Jimmy Neutron?</string>
+    <string name="pregunta_3">¿Quien de estos, es el pokemon que en terminos de reproduccion humana es el mas compatible con el cuerpo humano?</string>
+    <string name="pregunta_4">¿Quien es alergico al aire?</string>
+    <string name="pregunta_5">¿Quien ha escrito un manga?</string>
+    <string name="pregunta_6">¿Quien es la mejor minileyenda del TFT?</string>
+    <string name="pregunta_7">¿Quien es un hombre de mediana edad sin trabajo ni casa, es decir un MADAO?</string>
+    <string name="pregunta_8">¿Quien es capaz de desatar el super sayan 3?</string>
+    <string name="felicidades">¡Felicidades! Has completado el test. Puedes pasar a la siguiente pantalla</string>
+    <string name="eleccion">Tras tu éxito completando el test, te toca elegir la siguiente lección.</string>
+    <string name="inglaterra">0x1F1EC</string>
+    <string name="USA">0x1F1FA</string>
 </resources>
